@@ -4,7 +4,7 @@
 
 ```bash
 # Navigate to analysis directory
-cd "/home/ulises/Documents/UniTn/2nd Year/2 semester/Tirocinio/Analysis"
+cd path/to/thesis-data-analysis
 
 # Activate virtual environment
 source .venv/bin/activate
