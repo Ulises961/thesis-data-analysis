@@ -3094,7 +3094,7 @@
                 {
                   "type": "string",
                   "path": "logstash",
-                  "value": "/home/ulises/Documents/UniTn/2nd Year/2 semester/Tirocinio/Repositories/elasticsearch-logstash-kibana/logstash/pipeline/logstash-nginx.config",
+                  "value": "<repos>/elasticsearch-logstash-kibana/logstash/pipeline/logstash-nginx.config",
                   "lines": 1,
                   "is_multiline": false
                 }
@@ -3115,7 +3115,7 @@
                 {
                   "type": "string",
                   "path": "logstash",
-                  "value": "/home/ulises/Documents/UniTn/2nd Year/2 semester/Tirocinio/Repositories/elasticsearch-logstash-kibana/logstash/nginx.log",
+                  "value": "<repos>/elasticsearch-logstash-kibana/logstash/nginx.log",
                   "lines": 1,
                   "is_multiline": false
                 }
@@ -7628,7 +7628,7 @@
                 {
                   "type": "string",
                   "path": "web.deployment.spec.template.spec.volumes[0].hostPath.path",
-                  "value": "/home/ulises/Documents/UniTn/2nd Year/2 semester/Tirocinio/Repositories/nginx-flask-mongo/nginx/nginx.conf",
+                  "value": "<repos>/nginx-flask-mongo/nginx/nginx.conf",
                   "lines": 1,
                   "is_multiline": false
                 },
@@ -8118,7 +8118,7 @@
                 {
                   "type": "string",
                   "path": "proxy.deployment.spec.template.spec.volumes[0].hostPath.path",
-                  "value": "/home/ulises/Documents/UniTn/2nd Year/2 semester/Tirocinio/Repositories/nginx-golang/proxy/nginx.conf",
+                  "value": "<repos>/nginx-golang/proxy/nginx.conf",
                   "lines": 1,
                   "is_multiline": false
                 },
@@ -8631,7 +8631,7 @@
                 {
                   "type": "string",
                   "path": "proxy.deployment.spec.template.spec.volumes[0].hostPath.path",
-                  "value": "/home/ulises/Documents/UniTn/2nd Year/2 semester/Tirocinio/Repositories/nginx-golang-mysql/proxy/nginx.conf",
+                  "value": "<repos>/nginx-golang-mysql/proxy/nginx.conf",
                   "lines": 1,
                   "is_multiline": false
                 },
@@ -11118,7 +11118,7 @@
                 {
                   "type": "string",
                   "path": "plex",
-                  "value": "/home/ulises/Documents/UniTn/2nd Year/2 semester/Tirocinio/Repositories/plex/${PLEX_MEDIA_PATH}",
+                  "value": "<repos>/plex/${PLEX_MEDIA_PATH}",
                   "lines": 1,
                   "is_multiline": false
                 }
@@ -17028,7 +17028,7 @@
                 {
                   "type": "string",
                   "path": "web.deployment.spec.template.spec.volumes[0].hostPath.path",
-                  "value": "/home/ulises/Documents/UniTn/2nd Year/2 semester/Tirocinio/Repositories/nginx-flask-mongo/nginx/nginx.conf",
+                  "value": "<repos>/nginx-flask-mongo/nginx/nginx.conf",
                   "lines": 1,
                   "is_multiline": false
                 },
@@ -17438,7 +17438,7 @@
                 {
                   "type": "string",
                   "path": "proxy.deployment.spec.template.spec.volumes[0].hostPath.path",
-                  "value": "/home/ulises/Documents/UniTn/2nd Year/2 semester/Tirocinio/Repositories/nginx-golang/proxy/nginx.conf",
+                  "value": "<repos>/nginx-golang/proxy/nginx.conf",
                   "lines": 1,
                   "is_multiline": false
                 },
@@ -17943,7 +17943,7 @@
                 {
                   "type": "string",
                   "path": "proxy.deployment.spec.template.spec.volumes[0].hostPath.path",
-                  "value": "/home/ulises/Documents/UniTn/2nd Year/2 semester/Tirocinio/Repositories/nginx-golang-mysql/proxy/nginx.conf",
+                  "value": "<repos>/nginx-golang-mysql/proxy/nginx.conf",
                   "lines": 1,
                   "is_multiline": false
                 },
@@ -18625,7 +18625,7 @@
                 {
                   "type": "string",
                   "path": "plex",
-                  "value": "/home/ulises/Documents/UniTn/2nd Year/2 semester/Tirocinio/Repositories/plex/${PLEX_MEDIA_PATH}",
+                  "value": "<repos>/plex/${PLEX_MEDIA_PATH}",
                   "lines": 1,
                   "is_multiline": false
                 }
